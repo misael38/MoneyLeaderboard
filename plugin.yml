@@ -1,0 +1,10 @@
+name: Money-Leaderboard
+main: misael\TopMoneys\Main
+api: 3.0.0
+version: 1.0.0Fix
+author: misael38
+
+commands:
+ setmoneyboard:
+     description: Set a topmoney leaderboard in a spesific location
+     aliases: [smb]
